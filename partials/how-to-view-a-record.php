@@ -49,7 +49,7 @@
                     <h4>
                         <a href="https://www.nationalarchives.gov.uk/contact-us/make-a-records-and-research-enquiry/" title="Email us ">Email</a>
                     </h4>
-                    <p>For more detailed research enquiries.</p>
+                    <p>For more detailed record enquiries.</p>
                 </div>
             </div>
         </div>
